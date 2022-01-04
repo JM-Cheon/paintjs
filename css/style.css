@@ -83,7 +83,3 @@ body {
   border-radius: 50%;
   cursor: pointer;
 }
-
-.controls__range input::-webkit-progress-bar {
-  background-color: #333333;
-}
